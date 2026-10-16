@@ -514,13 +514,13 @@ export default function App() {
                     <div className="font-headline-sm text-[15px] font-semibold">50 992 66 28</div>
                   </div>
                 </a>
-                <a className="flex items-center gap-3.5 text-on-surface hover:text-primary transition-colors group" href="https://t.me/dumurzakov" rel="noopener noreferrer" target="_blank">
+                <a className="flex items-center gap-3.5 text-on-surface hover:text-primary transition-colors group" href="https://t.me/sardor" rel="noopener noreferrer" target="_blank">
                   <div className="w-10 h-10 rounded-lg bg-surface-container-high border border-primary/20 flex items-center justify-center text-primary-container group-hover:scale-105 transition-transform">
                     <span className="material-symbols-outlined text-[20px]" data-icon="chat">chat</span>
                   </div>
                   <div>
                     <div className="text-[12px] text-secondary font-label-mono">Telegram</div>
-                    <div className="font-headline-sm text-[15px] font-semibold">@dumurzakov</div>
+                    <div className="font-headline-sm text-[15px] font-semibold">@sardor</div>
                   </div>
                 </a>
                 <a className="flex items-center gap-3.5 text-on-surface hover:text-primary transition-colors group" href="mailto:dumurzakov3@gmail.com">
@@ -544,7 +544,7 @@ export default function App() {
               </div>
               {/* Social Icons / Links */}
               <div className="glass-card rounded-2xl p-4 flex items-center justify-around">
-                <a className="p-2.5 rounded-lg bg-surface-container text-secondary hover:text-primary-container hover:bg-surface-container-high active:scale-95 transition-all" href="https://t.me/dumurzakov" rel="noopener noreferrer" target="_blank" title="Telegram">
+                <a className="p-2.5 rounded-lg bg-surface-container text-secondary hover:text-primary-container hover:bg-surface-container-high active:scale-95 transition-all" href="https://t.me/sardor" rel="noopener noreferrer" target="_blank" title="Telegram">
                   <span className="material-symbols-outlined text-[22px]" data-icon="send">send</span>
                 </a>
                 <a className="p-2.5 rounded-lg bg-surface-container text-secondary hover:text-primary-container hover:bg-surface-container-high active:scale-95 transition-all" href="#" title="Instagram">
@@ -572,7 +572,7 @@ export default function App() {
           </div>
           {/* Links */}
           <div className="flex flex-wrap items-center justify-center gap-6 text-label-md font-label-md">
-            <a className="text-secondary/80 dark:text-secondary/80 hover:text-primary dark:hover:text-primary transition-colors duration-200" href="https://t.me/dumurzakov" rel="noopener noreferrer" target="_blank">Telegram</a>
+            <a className="text-secondary/80 dark:text-secondary/80 hover:text-primary dark:hover:text-primary transition-colors duration-200" href="https://t.me/sardor" rel="noopener noreferrer" target="_blank">Telegram</a>
             <a className="text-secondary/80 dark:text-secondary/80 hover:text-primary dark:hover:text-primary transition-colors duration-200" href="#">Instagram</a>
             <a className="text-secondary/80 dark:text-secondary/80 hover:text-primary dark:hover:text-primary transition-colors duration-200" href="#">LinkedIn</a>
             <a className="text-secondary/80 dark:text-secondary/80 hover:text-primary dark:hover:text-primary transition-colors duration-200" href="https://github.com/dumurzakov3-cell/sardor-portfolio" rel="noopener noreferrer" target="_blank">GitHub</a>
